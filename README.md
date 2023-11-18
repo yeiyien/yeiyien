@@ -1,0 +1,5 @@
+- 👋 Hi, I’m johan Guzman @yeiyien
+- 👀 I’m interested in software development, cybersecurity, and artificial intelligence.
+- 🌱 I’m currently learning full-stack web development with HTML, CSS, JavaScript, Node.js, React.js, SQL, PHP, Python, MySQL, MongoDB, SSL, HTTPS, AWS, and Azure.
+- 💞️ I’m looking to collaborate with designers on projects that require my front-end development skills. And also solve social challenges."
+- 📫 If you wanna reach me, sendme a message on twitter: @Yeiyien
